@@ -1,0 +1,7 @@
+:root{
+    --mainColor:red;
+}
+.c-main .test{
+        color:red;
+        color:var(--mainColor);
+    }
